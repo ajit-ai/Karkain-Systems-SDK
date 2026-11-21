@@ -1,0 +1,13 @@
+// Karkain Systems SDK - system module.
+//
+// Initial implementation boundary for the first working product: system
+// information inspection over the verified Karkain capability surface
+// (std.process, std.system boundaries verified where importable).
+
+func system_info() {
+    return "unknown"
+}
+
+func system_proc_run(cmd) {
+    return 0
+}

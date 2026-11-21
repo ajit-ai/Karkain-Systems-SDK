@@ -1,6 +1,8 @@
 # Benchmarks
 
-This directory records the performance baseline structure for the Karkain X SDK.
+## Karkain Systems SDK
+
+Performance baseline structure for the Systems SDK.
 
 ## Protocol
 

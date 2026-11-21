@@ -1,0 +1,9 @@
+// Karkain Systems SDK - focused tests.
+
+func system_probe_state() {
+    return 0
+}
+
+func test_system_probe_state() {
+    assert_eq(system_probe_state(), 0)
+}

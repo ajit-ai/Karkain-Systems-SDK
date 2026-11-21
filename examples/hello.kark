@@ -1,5 +1,7 @@
-// Karkain X SDK - runnable hello example.
+// Karkain Systems SDK - first working product example.
+
+import std.process
 
 func main() {
-    println("Hello, Karkain X SDK!")
+    println(proc_run("echo karkain-systems-probe"))
 }
